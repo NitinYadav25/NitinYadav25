@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="310" viewBox="0 0 900 310" role="img" aria-labelledby="title">
+<title id="title">Animated developer terminal</title>
+<defs><linearGradient id="terminal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#111c31"/></linearGradient></defs>
+<rect x="2" y="2" width="896" height="306" rx="18" fill="url(#terminal)" stroke="#164e63" stroke-width="2"/>
+<path d="M2 52H898" stroke="#334155"/>
+<circle cx="28" cy="27" r="6" fill="#fb7185"/><circle cx="50" cy="27" r="6" fill="#fbbf24"/><circle cx="72" cy="27" r="6" fill="#34d399"/>
+<text x="450" y="32" text-anchor="middle" fill="#94a3b8" font-family="monospace" font-size="14">nitin@dev-terminal: ~</text>
+<g font-family="monospace" font-size="17">
+ <text x="34" y="88" fill="#22d3ee">$ whoami</text><text x="160" y="88" fill="#e2e8f0">Nitin Yadav</text>
+ <text x="34" y="126" fill="#22d3ee">$ stack --list</text><text x="190" y="126" fill="#a5f3fc">React • Node.js • MongoDB • Flutter</text>
+ <text x="34" y="164" fill="#22d3ee">$ focus --current</text><text x="240" y="164" fill="#c4b5fd">AI apps, cloud, full-stack engineering</text>
+ <text x="34" y="202" fill="#22d3ee">$ git status</text><text x="170" y="202" fill="#86efac">working tree clean? always improving</text>
+ <text x="34" y="250" fill="#22d3ee">$ </text><text x="59" y="250" fill="#f8fafc">learn(); build(); ship();</text><rect x="308" y="234" width="10" height="22" fill="#22d3ee"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+</g>
+<path d="M30 278H870" stroke="#164e63" stroke-dasharray="4 8"><animate attributeName="stroke-dashoffset" from="0" to="-48" dur="3s" repeatCount="indefinite"/></path>
+</svg>
