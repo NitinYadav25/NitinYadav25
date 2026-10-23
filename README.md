@@ -10,7 +10,6 @@
 <a href="https://github.com/NitinYadav25"><img src="https://img.shields.io/badge/GitHub-NitinYadav25-111827?style=for-the-badge&logo=github" alt="GitHub"/></a>
 <a href="https://personal-portfolio-two-beta-87.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:raonitiny2007@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=NitinYadav25&style=for-the-badge&color=0891b2" alt="Profile views"/>
 </p>
 </div>
 
